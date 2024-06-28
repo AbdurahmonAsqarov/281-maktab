@@ -1,0 +1,27 @@
+.swiper-button-prev{
+    color: #fff;
+    text-shadow: 2px 2px 3px #0000006d;
+}
+.swiper-button-next{
+    color: #fff;
+    text-shadow: 2px 2px 3px #0000006d;  
+}
+.bruh{
+    text-shadow: 6px 6px 6px #0000006d;
+}
+.swiper-pagination-fraction{
+    display: none;
+}
+.eco1{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLgys8kVrKPvxA8lz74odpR5927o2UIci8Aw&s);
+}
+.eco2{
+    background: url(https://img.pikbest.com/wp/202343/copy-space-top-view-of-green-leaves-texture-perfect-background-and-wallpaper-with-ample-for-a-natural-refreshing-banner-design_9971191.jpg!bw700);
+
+}
+.bruh2{
+    text-shadow: 3px 3px 5px #0000006d;
+}
+.bruh3{
+    box-shadow: 6px 5px 10px 10px  #0000006d;
+}
