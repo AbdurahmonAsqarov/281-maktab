@@ -16,6 +16,11 @@ const Header = () => {
 const TelClick = () => {
   setTel(!tel)
 };
+
+const whiteToggle = () => {
+  const blackToWhite = document.querySelector('.Dowhite')
+  blackToWhite.classList.add('text-[#fff]')
+}
   return (
     <>
      <Navbar/>
@@ -23,7 +28,7 @@ const TelClick = () => {
      <div className='w-full'>
      <div className='bg-img bg-fixed h-[130vh] '>
             <div className='pt-[200px] max-sm:pt-[100px] text-center '>
-         <h1 className='z-10 text-[80px] max-md:text-[40px] text-[#fff] font-[800] backdrop-blur-sm'><span className='text-[#000]'>281-sonli</span> o'rta umumiy  </h1>
+         <h1 className='z-10 text-[80px] max-md:text-[40px] text-[#fff] font-[800] backdrop-blur-sm'><span onClick={whiteToggle} className='Dowhite text-[#000]'>281-sonli</span> o'rta umumiy  </h1>
          <h1 className='text-[#fff] text-[80px] font-[800] max-md:text-[40px] backdrop-blur-sm '>ta'lim maktabi</h1>
 
          <div className="grid grid-cols-2 gap-y-[5px] mt-[50px]  gap-x-10 max-md:gap-3">
@@ -50,7 +55,7 @@ const TelClick = () => {
 
                <div className=' text-end'>
                <button className='max-sm:w-[150px] text-[#000] font-[600] bg-[#fff] px-[4px] max-md:w-[170px] w-[200px] py-[4px] max-sm:px-[15px] rounded-br-3xl rounded-tl-3xl border-[3px] border-[#000] '>
-               <h1 className='max-md:border-none max-md:text-[10px] border-[3px] border-[#000] px-[10px] py-[10px] rounded-br-3xl rounded-tl-3xl'>Toshkent shahar Chilonzor tumani</h1>
+               <h1 className='max-md:border-none max-md:text-[10px] border-[3px] border-[#000] px-[10px] py-[10px] rounded-br-3xl rounded-tl-3xl hover:animate-pulse'>Toshkent shahar Chilonzor tumani</h1>
                
                </button>
                </div>
