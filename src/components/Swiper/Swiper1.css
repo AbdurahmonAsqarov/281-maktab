@@ -1,13 +1,13 @@
 .swiper-button-prev{
-    color: #fff;
-    text-shadow: 2px 2px 3px #0000006d;
+    color: #EBE3D5;
+    text-shadow: 2px 2px 3px #776B5D;
 }
 .swiper-button-next{
-    color: #fff;
-    text-shadow: 2px 2px 3px #0000006d;  
+    color: #EBE3D5;
+    text-shadow: 2px 2px 3px #776B5D;  
 }
 .bruh{
-    text-shadow: 6px 6px 6px #0000006d;
+    text-shadow: 3px 3px 4px #776B5D;
 }
 .swiper-pagination-fraction{
     display: none;
@@ -20,8 +20,8 @@
 
 }
 .bruh2{
-    text-shadow: 3px 3px 5px #0000006d;
+    text-shadow: 3px 3px 5px #776B5D;
 }
 .bruh3{
-    box-shadow: 6px 5px 10px 10px  #0000006d;
+    box-shadow: 6px 5px 10px 10px  #776B5D;
 }

@@ -7,6 +7,7 @@
 body{
     font-family: "Poppins", sans-serif;
     overflow-x: hidden;
+    background: #EBE3D5;
 
 }
 html,.footer{
@@ -54,7 +55,7 @@ ul li::before{
     width: 0;
     height: 2px;
     display: block;
-    background-color: #000;
+    background-color: #F3EEEA;
     margin-left: auto;
     transition: 0.5s;
     margin-bottom: 3px;
@@ -63,7 +64,7 @@ ul li::after{
     content: '';
     width: 0;
     height: 2px;
-    background-color: #000;
+    background-color: #F3EEEA;
     display: block;
     margin-right: auto;
     transition: 0.5s;
