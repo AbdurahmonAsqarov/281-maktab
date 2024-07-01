@@ -5,7 +5,7 @@ const Main = () => {
     <>
      <div className='mt-[100px] px-[120px] max-md:px-[20px] mb-[200px]' id='2'>
         <div className='mb-[100px]'>
-            <h1 className='text-center text-[#776B5D] font-[700] text-[50px] bruh'>Ma'naviyat rahbarlari</h1>
+            <h1 className='text-center text-[#776B5D] font-[700] text-[50px] bruh'> Rahbariyat</h1>
         </div>    
         <div className='  flex justify-around max-lg:flex-col max-lg:gap-10'>
         <div className=' hover:translate-y-[-50px] border border-[#B0A695] ease-in duration-500  hover:shadow-2xl  rounded-3xl truncate max-lg:w-[400px] max-md:w-full place-content-center bg-[#776B5D]'>
