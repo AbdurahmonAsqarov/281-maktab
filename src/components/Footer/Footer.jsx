@@ -27,7 +27,7 @@ const Footer = () => {
 
         <div className='border-t-[2px] bg-[#776B5D] border-[#000] flex justify-between items-center px-[100px] max-md:px-[20px]'>
             <h1 className='text-[30px] text-[#EBE3D5] font-[600] my-[25px] bruh max-md:text-[20px] '>281-maktab</h1>
-            <p className='hover:text-[20px] text-[#EBE3D5] hover:font-[700] max-md:text-[12px]'><a href="1" className='footer hover:animate-pulse'>Bosh sahifaga qaytish</a></p>
+            <p className='hover:text-[15px] text-[#EBE3D5] hover:font-[700] max-md:text-[12px] '><a href="1" className='footer hover:animate-pulse'>Bosh sahifaga qaytish</a></p>
         </div>
     </>
   )
