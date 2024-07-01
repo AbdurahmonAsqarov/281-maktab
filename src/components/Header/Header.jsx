@@ -6,7 +6,6 @@ import Home from '../Home/Home';
 
 //Icons
 import { IoIosArrowDown, IoIosArrowUp,IoIosArrowRoundDown  } from 'react-icons/io';
-import { TiArrowDownOutline } from "react-icons/ti";
 
 
 
@@ -31,7 +30,7 @@ const whiteToggle = () => {
      <div className='w-full'>
      <div className='bg-img bg-fixed h-[130vh] '>
             <div className='pt-[200px] max-sm:pt-[100px] text-center bg-[#33333399] backdrop-blur-sm '>
-         <h1 className='z-10 text-[80px] max-md:text-[40px] text-[#EBE3D5] font-[800] '><span onClick={whiteToggle} className='Dowhite text-[#776B5D]'>281-sonli</span>umumiy o'rta   </h1>
+         <h1 className='z-10 text-[80px] max-md:text-[40px] text-[#EBE3D5] font-[800] '><span onClick={whiteToggle} className='Dowhite text-[#776B5D]'>281-sonli</span> umumiy o'rta   </h1>
          <h1 className='text-[#EBE3D5] text-[80px] font-[800] max-md:text-[40px]  '>ta'lim maktabi</h1>
 
          <div className="grid grid-cols-2  gap-y-[5px] mt-[50px]  gap-x-10 max-md:gap-3">
