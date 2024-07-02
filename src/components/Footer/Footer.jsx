@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div className='grid grid-cols-2 text-[#776B5D] items-center gap-[100px] max-md:gap-5 max-md:px-[10px]'>
 
-            <img src="src/assets/photo_2024-06-28_16-17-59.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
+            <img src="src/assets/Us school/photo_2024-06-28_16-17-59.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
             <h1 className='text-[50px] font-[700] bruh2 max-md:text-[20px] max-lg:text-[40px] '>Bizning sport zal</h1>
 
             <h1 className='text-[50px] font-[700] bruh2 max-lg:text-[40px] max-md:text-[20px]'>Bizning oshxona</h1>
@@ -21,7 +21,7 @@ const Footer = () => {
         </div>
 
         <div className='mb-[50px] flex place-content-center '>
-            <img src="src/img/photo_2024-06-28_16-17-11.jpg" alt="" className='bruh3 w-[70vw] h-[80vh] rounded-[30px] max-md:h-[40vh] max-lg:h-[60vh]'/>
+            <img src="src/assets/photo_2024-06-28_16-17-11.jpg" alt="" className='bruh3 w-[70vw] h-[80vh] rounded-[30px] max-md:h-[40vh] max-lg:h-[60vh]'/>
         </div> 
         <h1 className='text-[30px] text-[#776B5D] font-[600] text-center mb-[200px] max-md:mb-[100px] max-md:text-[25px]'>Yangi O`zbekistonga  yangicha fikrlaydigan,vatanparvar va bilimli yoshlar kerak.</h1>
 
