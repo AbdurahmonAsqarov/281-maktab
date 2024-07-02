@@ -1,5 +1,11 @@
 import React from 'react'
 
+// import jpg img
+import sportZal from '../../assets/sport_zal.jpg'
+import cook from '../../assets/cook.jpg'
+import mainZal from '../../assets/activiy_zal.jpg'
+import main from '../../assets/school_decoration.jpg'
+
 const Footer = () => {
   return (
     <>
@@ -8,20 +14,20 @@ const Footer = () => {
 
         <div className='grid grid-cols-2 text-[#776B5D] items-center gap-[100px] max-md:gap-5 max-md:px-[10px]'>
 
-            <img src="src/assets/test_zal.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
+            <img src={sportZal} alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
             <h1 className='text-[50px] font-[700] bruh2 max-md:text-[20px] max-lg:text-[40px] '>Bizning sport zal</h1>
 
             <h1 className='text-[50px] font-[700] bruh2 max-lg:text-[40px] max-md:text-[20px]'>Bizning oshxona</h1>
-            <img src="src/assets/UsSchool/cook.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
+            <img src={cook} alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
 
-            <img src="src/assets/UsSchool/activiy_zal.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh] '/>
+            <img src={mainZal} alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh] '/>
             <h1 className='text-[50px] font-[700] bruh2 max-lg:text-[40px] max-md:text-[20px]'>Bizning asosiy zal</h1>
 
         </div>
         </div>
 
         <div className='mb-[50px] flex place-content-center '>
-            <img src="../src/school_decoration" alt="" className='img-dec bruh3 w-[70vw] h-[80vh] rounded-[30px] max-md:h-[40vh] max-lg:h-[60vh]'/>
+            <img src={main} alt="" className=' bruh3 w-[70vw] h-[80vh] rounded-[30px] max-md:h-[40vh] max-lg:h-[60vh]'/>
         </div> 
         <h1 className='text-[30px] text-[#776B5D] font-[600] text-center mb-[200px] max-md:mb-[100px] max-md:text-[25px]'>Yangi O`zbekistonga  yangicha fikrlaydigan,vatanparvar va bilimli yoshlar kerak.</h1>
 

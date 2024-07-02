@@ -78,14 +78,3 @@ ul li:hover::before{
 ul li:hover::after{
     width: 100%;
 }
-.swiper8{
-    background-image: url('src/assets/');
-    background-repeat: no-repeat;
-    background-size: contain;
-}
-.img-dec{
-    background-image: url('./assets/school_decoration.jpg');
-}
-.imgSportZal{
-    
-}
