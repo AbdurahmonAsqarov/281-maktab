@@ -11,7 +11,7 @@ import './Swiper1.css';
 
 // import required modules
 import { Pagination, Navigation, Autoplay } from 'swiper/modules';
-import sw1 from "../../assets/swiper_1.jpg"
+import sw1 from "../../assets/test_zal.jpg"
 const Swiper1 = () => {
   return (
     <div id='3' className='my-[150px] '>
