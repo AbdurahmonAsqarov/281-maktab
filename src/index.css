@@ -79,7 +79,7 @@ ul li:hover::after{
     width: 100%;
 }
 .swiper8{
-    background-image: url('src/assets/swiper/swiper3/swiper_8.jpg');
+    background-image: url('src/assets/');
     background-repeat: no-repeat;
     background-size: contain;
 }

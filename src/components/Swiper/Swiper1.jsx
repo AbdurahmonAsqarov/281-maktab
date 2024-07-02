@@ -73,7 +73,7 @@ const Swiper1 = () => {
         </SwiperSlide>
         <SwiperSlide className=''>
           <div className='eco1 bg-right  place-centent-end'  >
-            <div className='h-[60vh] max-md:h-[58vh] max-lg:h-[39vh] swiper8 '></div>
+            <div className='h-[60vh] max-md:h-[58vh] max-lg:h-[39vh] bg-img '></div>
             <div className='grid text-end  justify-items-end max-lg:text-start max-lg:justify-items-start'>
             <h1 className=' w-[800px] text-[20px] text-[#EBE3D5] max-lg:text-[15px] max-lg:w-[400px]'>Toshkent shahar Chilonzor tumani Maktabgacha va maktab ta'limi bo'limi tasarrufidagi 281-sonli umumta'lim maktabidagi Ekalogiya burchagi</h1>
             </div>
