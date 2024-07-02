@@ -78,3 +78,8 @@ ul li:hover::before{
 ul li:hover::after{
     width: 100%;
 }
+.swiper8{
+    background: url(src/assets/swiper/swiper3/swiper_8.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
