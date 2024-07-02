@@ -8,13 +8,13 @@ const Footer = () => {
 
         <div className='grid grid-cols-2 text-[#776B5D] items-center gap-[100px] max-md:gap-5 max-md:px-[10px]'>
 
-            <img src="src/assets/Us school/sport_zal.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
+            <img src="src/assets/UsSchool/sport_zal.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
             <h1 className='text-[50px] font-[700] bruh2 max-md:text-[20px] max-lg:text-[40px] '>Bizning sport zal</h1>
 
             <h1 className='text-[50px] font-[700] bruh2 max-lg:text-[40px] max-md:text-[20px]'>Bizning oshxona</h1>
-            <img src="src/assets/Us school/cook.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
+            <img src="src/assets/UsSchool/cook.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
 
-            <img src="src/assets/Us school/activiy_zal.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh] '/>
+            <img src="src/assets/UsSchool/activiy_zal.jpg" alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh] '/>
             <h1 className='text-[50px] font-[700] bruh2 max-lg:text-[40px] max-md:text-[20px]'>Bizning asosiy zal</h1>
 
         </div>
