@@ -83,3 +83,6 @@ ul li:hover::after{
     background-repeat: no-repeat;
     background-size: contain;
 }
+.img-dec{
+    background-image: url('');
+}
