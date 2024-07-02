@@ -20,8 +20,8 @@ const Footer = () => {
         </div>
         </div>
 
-        <div className='mb-[50px] flex place-content-center img-dec'>
-            <img src="../src/school_decoration" alt="" className='bruh3 w-[70vw] h-[80vh] rounded-[30px] max-md:h-[40vh] max-lg:h-[60vh]'/>
+        <div className='mb-[50px] flex place-content-center '>
+            <img src="../src/school_decoration" alt="" className='img-dec bruh3 w-[70vw] h-[80vh] rounded-[30px] max-md:h-[40vh] max-lg:h-[60vh]'/>
         </div> 
         <h1 className='text-[30px] text-[#776B5D] font-[600] text-center mb-[200px] max-md:mb-[100px] max-md:text-[25px]'>Yangi O`zbekistonga  yangicha fikrlaydigan,vatanparvar va bilimli yoshlar kerak.</h1>
 

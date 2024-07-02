@@ -15,7 +15,7 @@ html,.footer{
     overflow-x: hidden;
 }
 .bg-img {
-    background-image: url('./assets/swiper/Swiper1/swiper_1.jpg');
+    background-image: url('./assets/maktab_rasm.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -84,5 +84,5 @@ ul li:hover::after{
     background-size: contain;
 }
 .img-dec{
-    background-image: url('');
+    background-image: url('./assets/school_decoration.jpg');
 }
