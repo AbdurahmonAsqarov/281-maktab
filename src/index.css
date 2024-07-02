@@ -15,7 +15,7 @@ html,.footer{
     overflow-x: hidden;
 }
 .bg-img {
-    background-image: url('public/281-maktab (3).jpg');
+    background-image: url('./assets/281-maktab\ \(3\).jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
