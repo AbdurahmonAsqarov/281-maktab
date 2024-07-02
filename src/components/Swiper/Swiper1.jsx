@@ -11,7 +11,7 @@ import './Swiper1.css';
 
 // import required modules
 import { Pagination, Navigation, Autoplay } from 'swiper/modules';
-
+import sw1 from "../../assets/swiper_1.jpg"
 const Swiper1 = () => {
   return (
     <div id='3' className='my-[150px] '>
@@ -31,7 +31,7 @@ const Swiper1 = () => {
       >
         <SwiperSlide className=''>
           <div className="greenLife flex items-center">
-          <img src="src/assets/swiper/Swiper1/swiper_1.jpg" alt="" className='object-cover h-[500px] rounded-[8px]'/>
+          <img src={sw1} alt="" className='object-cover h-[500px] rounded-[8px]'/>
           <h1 className=' text-[24px] font-[600] text-[#EBE3D5]'>281- maktab hovlisiga <span className='text-[#776B5D]'>"Yashil makon"</span> loyihasi asosida  rayhon va gul ko'chatlari ekildi.</h1>
           </div>
         </SwiperSlide>
