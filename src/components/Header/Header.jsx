@@ -74,7 +74,7 @@ const whiteToggle = () => {
               {tel && (
              <div className=' text-start'>
              <button className='max-sm:w-[150px] text-[#EBE3D5] font-[600] bg-[#776B5D] px-[6px] max-md:w-[170px] w-[200px] py-[6px] max-sm:px-[15px] rounded-br-3xl rounded-tl-3xl border-[2px] border-[#EBE3D5] '>
-                  <h1 className='max-md:text-[10px] border-[2px] border-[#EBE3D5] px-[10px] py-[10px] rounded-br-3xl rounded-tl-3xl max-md:border-none hover:animate-pulse'>+998 (90) 123 45 67</h1>
+                  <h1 className='max-md:text-[10px] border-[2px] border-[#EBE3D5] px-[10px] py-[10px] rounded-br-3xl rounded-tl-3xl max-md:border-none hover:animate-pulse'>+998 (99) 839 70 19</h1>
                  
               </button>
              </div> 
