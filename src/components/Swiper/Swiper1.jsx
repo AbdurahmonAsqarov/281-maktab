@@ -25,7 +25,7 @@ import sw9 from "../../assets/swiper_9.jpg"
 const Swiper1 = () => {
   return (
     <div id='3' className='my-[150px] '>
-      <h1 className='font-[700] text-[50px] text-[#776B5D] bruh text-center my-[100px]'>Yangiliklar</h1>
+      <h1 className='font-[700] text-[50px] text-[#052d50] bruh text-center my-[100px]'>Yangiliklar</h1>
        <Swiper
         autoplay={{
           delay: 2500,
@@ -42,43 +42,43 @@ const Swiper1 = () => {
         <SwiperSlide className=''>
           <div className="greenLife flex items-center">
           <img src={sw1} alt="" className='object-cover h-[500px] rounded-[8px]'/>
-          <h1 className=' text-[24px] font-[600] text-[#EBE3D5]'>281- maktab hovlisiga <span className='text-[#776B5D]'>"Yashil makon"</span> loyihasi asosida  rayhon va gul ko'chatlari ekildi.</h1>
+          <h1 className=' text-[24px] font-[600] text-[#EBE3D5]'>281- maktab hovlisiga <span className='text-[#d29129]'>"Yashil makon"</span> loyihasi asosida  rayhon va gul ko'chatlari ekildi.</h1>
           </div>
         </SwiperSlide>
         <SwiperSlide className='place-content-center'>
           <div className='flex items-center greenLife2'>
             <img src={sw2} alt="" className='object-cover h-[500px] rounded-[8px]'/>
-            <h1 className='text-[24px] font-[600] text-[#EBE3D5]'>281- maktab hovlisiga <span className='text-[#776B5D]'>"Yashil makon"</span> loyihasi asosida  rayhon va gul ko'chatlari ekildi.</h1>
+            <h1 className='text-[24px] font-[600] text-[#EBE3D5]'>281- maktab hovlisiga <span className='text-[#d29129]'>"Yashil makon"</span> loyihasi asosida  rayhon va gul ko'chatlari ekildi.</h1>
           </div>
         </SwiperSlide>
         <SwiperSlide className='place-content-center'>
         <div className='flex items-center greenLife3'>
             <img src={sw3} alt="" className='object-cover h-[500px] rounded-[8px]'/>
-            <h1 className='text-[24px] font-[600] text-[#EBE3D5]'>281- maktab hovlisiga <span className='text-[#776B5D]'>"Yashil makon"</span> loyihasi asosida  rayhon va gul ko'chatlari ekildi.</h1>
+            <h1 className='text-[24px] font-[600] text-[#EBE3D5]'>281- maktab hovlisiga <span className='text-[#d29129]'>"Yashil makon"</span> loyihasi asosida  rayhon va gul ko'chatlari ekildi.</h1>
           </div>
         </SwiperSlide>
         <SwiperSlide className='place-content-center'>
         <div className=' '>
             <img src={sw4} alt="" className='object-cover h-[60vh] w-full h-[500px] rounded-[8px] max-lg:h-[39vh] max-md:h-[55vh]'/>
-            <h1 className='text-[20px] font-[600] text-[#776B5D] max-lg:text-[14px]'>Toshkent shahar Chilonzor tumani Maktabgacha va maktab ta'limi bo'limi tasarrufidagi umumta'lim maktablariga <span>“TURON” MAKTAB TEATRI”</span> TANLOVIGA START BERILDI</h1>
+            <h1 className='text-[20px] font-[600] text-[#052d50] max-lg:text-[14px]'>Toshkent shahar Chilonzor tumani Maktabgacha va maktab ta'limi bo'limi tasarrufidagi umumta'lim maktablariga <span>“TURON” MAKTAB TEATRI”</span> TANLOVIGA START BERILDI</h1>
           </div>
         </SwiperSlide>
         <SwiperSlide className='place-content-center'>
         <div className=' '>
             <img src={sw5} alt="" className='object-cover h-[60vh] w-full h-[500px] rounded-[8px] max-lg:h-[39vh] max-md:h-[55vh]'/>
-            <h1 className='text-[20px] font-[600] text-[#776B5D] max-lg:text-[14px]'>Toshkent shahar Chilonzor tumani Maktabgacha va maktab ta'limi bo'limi tasarrufidagi umumta'lim maktablariga <span>“TURON” MAKTAB TEATRI”</span> TANLOVIGA START BERILDI</h1>
+            <h1 className='text-[20px] font-[600] text-[#052d50] max-lg:text-[14px]'>Toshkent shahar Chilonzor tumani Maktabgacha va maktab ta'limi bo'limi tasarrufidagi umumta'lim maktablariga <span>“TURON” MAKTAB TEATRI”</span> TANLOVIGA START BERILDI</h1>
           </div>
         </SwiperSlide>
         <SwiperSlide className='place-content-center'>
         <div className=' '>
             <img src={sw6} alt="" className='object-cover h-[60vh] w-full h-[500px] rounded-[8px] max-lg:h-[39vh] max-md:h-[55vh]'/>
-            <h1 className='text-[20px] font-[600] text-[#776B5D] max-lg:text-[14px]'>Toshkent shahar Chilonzor tumani Maktabgacha va maktab ta'limi bo'limi tasarrufidagi umumta'lim maktablariga <span>“TURON” MAKTAB TEATRI”</span> TANLOVIGA START BERILDI</h1>
+            <h1 className='text-[20px] font-[600] text-[#052d50] max-lg:text-[14px]'>Toshkent shahar Chilonzor tumani Maktabgacha va maktab ta'limi bo'limi tasarrufidagi umumta'lim maktablariga <span>“TURON” MAKTAB TEATRI”</span> TANLOVIGA START BERILDI</h1>
           </div>
         </SwiperSlide>
         <SwiperSlide className='place-content-center'>
         <div className=' '>
             <img src={sw7} alt="" className='object-cover h-[60vh] w-full h-[500px] rounded-[8px] max-lg:h-[39vh] max-md:h-[55vh]'/>
-            <h1 className='text-[20px] font-[600] text-[#776B5D] max-lg:text-[14px]'>Toshkent shahar Chilonzor tumani Maktabgacha va maktab ta'limi bo'limi tasarrufidagi umumta'lim maktablariga <span>“TURON” MAKTAB TEATRI”</span> TANLOVIGA START BERILDI</h1>
+            <h1 className='text-[20px] font-[600] text-[#052d50] max-lg:text-[14px]'>Toshkent shahar Chilonzor tumani Maktabgacha va maktab ta'limi bo'limi tasarrufidagi umumta'lim maktablariga <span>“TURON” MAKTAB TEATRI”</span> TANLOVIGA START BERILDI</h1>
           </div>
         </SwiperSlide>
         <SwiperSlide className=''>
