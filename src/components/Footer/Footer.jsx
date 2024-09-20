@@ -5,6 +5,9 @@ import sportZal from '../../assets/sport_zal.jpg'
 import cook from '../../assets/cook.jpg'
 import mainZal from '../../assets/activiy_zal.jpg'
 import main from '../../assets/school_decoration.jpg'
+import sinfxona from '../../assets/sinfxona.png'
+import informatika from '../../assets/Informatika.png'
+import arrow from '../../assets/arrow.png'
 
 const Footer = () => {
   return (
@@ -21,7 +24,18 @@ const Footer = () => {
             <img src={cook} alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]'/>
 
             <img src={mainZal} alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh] '/>
-            <h1 className='text-[50px] font-[700] bruh2 max-lg:text-[40px] max-md:text-[20px]'>Bizning asosiy zal</h1>
+            <h1 className='text-[50px] font-[700] bruh2 max-lg:text-[40px] max-md:text-[20px] text-center'>Bizning asosiy zal</h1>
+
+            <div>
+              <h1 className='text-[50px] font-[700] bruh2 max-lg:text-[40px] max-md:text-[20px] text-center'>Milliy reytingdagi o'rni:</h1>
+              <img src={arrow} alt="" className='absolute right-[40%] max-lg:hidden'/>
+            </div>
+            <img src={sinfxona} className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh]' alt="" />
+
+            <img src={informatika} alt="" className='hover:shadow-2xl ease-in duration-500 hover:translate-y-[-30px] h-[323px] w-[584px] rounded-[30px] max-md:h-[30vh] '/>
+            <h1 className='text-[40px] font-[700] bruh2 max-lg:text-[25px] max-md:text-[20px] text-center'>Respublikada 306-o'rin
+              Shaharda 9-o'rinda tumanda - 3-o'rin
+            </h1>
 
         </div>
         </div>
@@ -33,7 +47,7 @@ const Footer = () => {
 
         <div className='border-t-[2px] bg-[#052d50] border-[#000] flex justify-between items-center px-[100px] max-md:px-[20px]'>
             <h1 className='text-[30px] text-[#d29129] font-[600] my-[25px] bruh max-md:text-[20px] '>281-maktab</h1>
-            <p className='hover:text-[15px] text-[#d29129] hover:font-[700] max-md:text-[12px] '><a href="1" className='footer hover:animate-pulse'>Bosh sahifaga qaytish</a></p>
+            <p className='hover:text-[15px] text-[#d29129] hover:font-[700] max-md:text-[12px] '><a href="#1" className='footer hover:animate-pulse'>Bosh sahifaga qaytish</a></p>
         </div>
     </>
   )
